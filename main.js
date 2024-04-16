@@ -4,6 +4,6 @@ let favColor= prompt("Please, enter your favorite colour")
 
 let succes = `${firstName}${surname}${favColor}\#24\ `
 
-//alert(succes)
+alert(succes)
 
 document.getElementById("result").innerHTML=`SUCCES: ${succes}`
