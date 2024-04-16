@@ -1,6 +1,6 @@
-let firstName= prompt()
-let surname= prompt()
-let favColor= prompt()
+let firstName= prompt("Please, enter your name")
+let surname= prompt("Please, enter your surname")
+let favColor= prompt("Please, enter your favorite colour")
 
 let succes = `${firstName}${surname}${favColor}\#24\ `
 
